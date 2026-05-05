@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm [Syed Azim Baqeri]
 
-<!--
-**azimbaqeri/azimbaqeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & Network Developer
+📍 France
+🎯 Passionate about building useful, secure, and scalable digital solutions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🎓 Graduate in **Web & Web Mobile Development**
+* 🧠 10+ years experience in **IT & Network Infrastructure**
+* 🔧 Skilled in both **development** and **system/network maintenance**
+* 🔍 Currently looking for a **full-time opportunity**
+* 🌱 Working on meaningful projects focused on **sustainability & local impact**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+* HTML5 / CSS3
+* JavaScript
+* Responsive Design
+
+### ⚙️ Backend
+
+* PHP
+* MySQL
+
+### 🌐 Network & IT
+
+* Network infrastructure management
+* System maintenance
+* User support & troubleshooting
+
+---
+
+## 📫 Contact Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/azim-baqeri/]
+* 🌐 Portfolio: [www.codecave.fr]
+
+---
+
+## ⚡ Fun Fact
+
+I combine **development skills** with **real-world IT experience**, which helps me build practical and efficient solutions.
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*
