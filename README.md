@@ -1,53 +1,52 @@
-# 👋 Hi, I'm [Syed Azim Baqeri]
+# 👋 Bonjour, moi c'est Azim
 
-💻 Web & Network Developer
+💻 Développeur Web & Réseaux
 📍 France
-🎯 Passionate about building useful, secure, and scalable digital solutions
+🎯 Passionné par la conception et le développement d’applications web robustes, avec une   attention particulière à la sécurité, aux performances et à la qualité du code
 
 ---
 
-## 🚀 About Me
+## 🚀 À propos de moi
 
-* 🎓 Graduate in **Web & Web Mobile Development**
-* 🧠 10+ years experience in **IT & Network Infrastructure**
-* 🔧 Skilled in both **development** and **system/network maintenance**
-* 🔍 Currently looking for a **full-time opportunity**
-* 🌱 Working on meaningful projects focused on **sustainability & local impact**
+* 🎓 Diplômé en **Développement Web et Web Mobile**
+* 🧠 Plus de 10 ans d'expérience en **informatique et réseaux**
+* 🔧 Compétences en **développement** et en **gestion d'infrastructures IT**
+* 🔍 Actuellement à la recherche d’un **poste à temps plein**
+* 🌱 Intéressé par des projets à **impact positif et durable**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Compétences techniques
 
 ### 💻 Frontend
 
 * HTML5 / CSS3
 * JavaScript
-* Responsive Design
+* Design responsive
 
 ### ⚙️ Backend
 
 * PHP
 * MySQL
 
-### 🌐 Network & IT
+### 🌐 Réseaux & IT
 
-* Network infrastructure management
-* System maintenance
-* User support & troubleshooting
-
----
-
-## 📫 Contact Me
-
-* 💼 LinkedIn: [https://www.linkedin.com/in/azim-baqeri/]
-* 🌐 Portfolio: [www.codecave.fr]
+* Administration réseau
+* Maintenance des systèmes
+* Support utilisateurs & dépannage
 
 ---
 
-## ⚡ Fun Fact
-
-I combine **development skills** with **real-world IT experience**, which helps me build practical and efficient solutions.
+## 📫 Me contacter
+* 💼 LinkedIn : https://www.linkedin.com/in/azim-baqeri/
+* 🌐 Portfolio : votre-lien-portfolio
 
 ---
 
-⭐️ *Feel free to explore my repositories and connect with me!*
+## ⚡ Petit plus
+
+Je combine mes compétences en **développement** avec une solide expérience terrain en **réseaux**, ce qui me permet de concevoir des solutions fiables et concrètes.
+
+---
+
+⭐️ *N'hésitez pas à explorer mes projets et à me contacter !*
