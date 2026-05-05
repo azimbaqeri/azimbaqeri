@@ -2,7 +2,7 @@
 
 💻 Développeur Web & Réseaux
 📍 France
-🎯 Passionné par la conception et le développement d’applications web robustes, avec une   attention particulière à la sécurité, aux performances et à la qualité du code
+🎯 Passionné par la conception et le développement d’applications web robustes, avec une attention particulière à la sécurité, aux performances et à la qualité du code
 
 ---
 
@@ -39,7 +39,7 @@
 
 ## 📫 Me contacter
 * 💼 LinkedIn : https://www.linkedin.com/in/azim-baqeri/
-* 🌐 Portfolio : votre-lien-portfolio
+* 🌐 Portfolio : https://www.codecave.fr
 
 ---
 
